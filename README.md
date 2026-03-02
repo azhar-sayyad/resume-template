@@ -23,7 +23,9 @@
 
 ## 📸 Preview
 
-> Add your generated PDF screenshot here.
+[![Resume Preview](./resume-preview.png)](./resume-template.pdf)
+
+Click the preview image to open the full PDF.
 
 ---
 
@@ -43,8 +45,8 @@ Make sure you have:
 ### 2️⃣ Clone This Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/azhar-sayyad/resume-template.git
+cd resume-template
 ```
 
 ---
@@ -52,7 +54,7 @@ cd your-repo-name
 ### 3️⃣ Compile
 
 ```bash
-pdflatex resume.tex
+pdflatex main.tex
 ```
 
 OR simply upload to **Overleaf** and compile.
@@ -97,9 +99,10 @@ Company Name \\
 
 ```text
 .
-├── resume.tex
+├── main.tex
 ├── README.md
-└── resume.pdf
+├── resume-template.pdf
+└── resume-preview.png
 ```
 
 ---
