@@ -45,8 +45,8 @@ Make sure you have:
 ### 2️⃣ Clone This Repository
 
 ```bash
-git clone https://github.com/azhar-sayyad/resume-template.git
-cd resume-template
+git clone https://github.com/azhar-sayyad/latex-resume-template.git
+cd latex-resume-template
 ```
 
 ---
