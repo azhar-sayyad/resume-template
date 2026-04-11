@@ -152,7 +152,7 @@ You are free to use, modify, and distribute.
 ## 👨‍💻 Author
 
 **Azhar Sayyad**  
-Senior Software Engineer
+Software Engineer
 
 GitHub: [https://github.com/azhar-sayyad](https://github.com/azhar-sayyad)  
 LinkedIn: [https://linkedin.com/in/sayyad-azhar](https://linkedin.com/in/sayyad-azhar)
